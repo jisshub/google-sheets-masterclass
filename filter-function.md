@@ -38,6 +38,4 @@ https://docs.google.com/spreadsheets/d/1KE3E3r1LWaitEZKCS6-_pVnSyW0sfETBfISiwy13
      - set true means ascending order.
        **=SORT(FILTER(C2:E,B2:B=H4,D2:D>0),3,true)**
 
-time: 6:10
-
 ---
